@@ -3,7 +3,7 @@
 Baristas ! Please follow these recipes 
 precisely when preraring starbuzz beverages
 
-*Starbuzz coffee Recipe
+* Starbuzz coffee Recipe
     1- Boil some water
     2- Brew coffee in boiling water
     3- Pour coffée in cup
