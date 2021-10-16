@@ -18,7 +18,7 @@ public abstract class CaffeineBeverage {
         if(customerWantsCondiments()) {
              addCondiments();  
         }
-        addCondiments();
+        
     }
     
     abstract void brew();
